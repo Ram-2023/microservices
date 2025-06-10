@@ -1,0 +1,3 @@
+[submodule "frontend-microservices"]
+	path = frontend-microservices
+	url = https://github.com/Ram-2023/microservices.git
